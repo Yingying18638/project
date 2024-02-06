@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/yingying18638/project.git/static/css/main.1921598c.css",
+    "main.js": "/yingying18638/project.git/static/js/main.64edf2c1.js",
+    "static/js/592.6a404ca5.chunk.js": "/yingying18638/project.git/static/js/592.6a404ca5.chunk.js",
+    "index.html": "/yingying18638/project.git/index.html",
+    "main.1921598c.css.map": "/yingying18638/project.git/static/css/main.1921598c.css.map",
+    "main.64edf2c1.js.map": "/yingying18638/project.git/static/js/main.64edf2c1.js.map",
+    "592.6a404ca5.chunk.js.map": "/yingying18638/project.git/static/js/592.6a404ca5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1921598c.css",
+    "static/js/main.64edf2c1.js"
+  ]
+}
